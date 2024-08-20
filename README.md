@@ -1,1 +1,2 @@
-# BIT504
+# HelloWorld
+a simple test program
